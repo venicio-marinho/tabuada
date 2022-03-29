@@ -7,4 +7,4 @@ feita em javascript com objetivo de criar elementos dinamicamente e removendo qu
 > - clique no botão "Enviar". 
 > - veja o resultado logo abaixo do input.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venicio-marinho&layout=compact)
+![coding](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
